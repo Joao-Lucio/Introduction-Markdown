@@ -90,4 +90,14 @@ __*Lorem*__
 ```
 > **Lorem** ipsum _dolor_ sit amet, consectetur.
 ```
+# Linhas horizontais
+
+***
+```
+***
+---
+* * *
+- - -
+```
+
 
