@@ -130,3 +130,28 @@ __*Lorem*__
 - Item 02
 + Item 03
 ```
+
+# Lista Ordenada
+
+1. Item 01
+2. Item 02
+3. Item 03
+
+```
+1. Item 01
+2. Item 02
+3. Item 03
+
+1. Item 01 (Vai continuar sequência)
+1. Item 02
+1. Item 03
+
+8. Item 01 (Vai ignorar e continuar sequência)
+5. Item 02
+3. Item 03
+
+1994\. Brasil (Ordenar, mas reispeitar a numeração inicial do item)  
+1998\. França  
+2002\. Brasil  
+```
+
