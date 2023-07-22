@@ -156,18 +156,19 @@ __*Lorem*__
 ```
 
 # Links
-
+## Exemplo 1
 [Clique aqui](https://github.com/Joao-Lucio)
 
 ```
 [Clique aqui](Link)
 ```
-
+## Exemplo 2
 [João Lúcio](https://github.com/Joao-Lucio "Github")
 
 ```
 [Texto](Link "Texto que será exibido quando parar o mouse por cima")
 ```
+## Exemplo 3
 [Clique aqui][site-url]
 
 [site-url]:https://github.com/Joao-Lucio
@@ -177,3 +178,47 @@ __*Lorem*__
 [site-url]:https://github.com/Joao-Lucio
 ```
 
+# Imagem
+
+## Exemplo 1
+![Markdown](https://amiel.net.br/wp-content/uploads/2020/09/markdown.jpg)
+
+```
+![Texto](endereço)
+```
+
+## Exemplo 2
+
+![Markdonwn][image]
+
+[image]: https://amiel.net.br/wp-content/uploads/2020/09/markdown.jpg
+
+```
+![Markdonwn][image]
+
+[image]: https://amiel.net.br/wp-content/uploads/2020/09/markdown.jpg
+```
+
+## Imagem com link
+### Exemplo 1
+[![Markdown](https://amiel.net.br/wp-content/uploads/2020/09/markdown.jpg)](https://amiel.net.br/wp-content/uploads/2020/09/markdown.jpg)
+
+```
+[![Texto](https://amiel.net.br/wp-content/uploads/2020/09/markdown.jpgendereço da imagem)](link)
+```
+
+### Exemplo 2
+
+[![Markdown][image-thumbs]][image-link]
+
+[image-thumbs]: https://cdn.icon-icons.com/icons2/2389/PNG/512/markdown_logo_icon_145085.png
+
+[image-link]: https://amiel.net.br/wp-content/uploads/2020/09/markdown.jpg
+
+```
+[![Markdown][image-thumbs]][image-link]
+
+[image-thumbs]: https://cdn.icon-icons.com/icons2/2389/PNG/512/markdown_logo_icon_145085.png
+
+[image-link]: https://amiel.net.br/wp-content/uploads/2020/09/markdown.jpg
+```
