@@ -222,3 +222,36 @@ __*Lorem*__
 
 [image-link]: https://amiel.net.br/wp-content/uploads/2020/09/markdown.jpg
 ```
+
+# Tabela
+
+## Exemplo
+| Nome  | Idade | Profissão |
+| ----- | ----- | --------  |
+|Roberto | 36    | Desenvolvedor |
+|Rodrigo | 35    | Professor |
+|Renan | 33    | Músico |
+
+```
+| Nome  | Idade | Profissão |
+| - | ----- | --------  |
+|Roberto | 36    | Desenvolvedor |
+|Rodrigo | 35    | Professor |
+|Renan | 33    | Músico |
+```
+
+## Exemplo 2 - Alinhamento
+
+| Nome  | Idade | Profissão |
+| :---- | :----: | ------:  |
+|Roberto | 36    | Desenvolvedor |
+|Rodrigo | 35    | Professor |
+|Renan | 33    | Músico |
+
+```
+| Nome  | Idade | Profissão |
+| :---- | :-----: | --------:  |
+|Roberto | 36    | Desenvolvedor |
+|Rodrigo | 35    | Professor |
+|Renan | 33    | Músico |
+```
