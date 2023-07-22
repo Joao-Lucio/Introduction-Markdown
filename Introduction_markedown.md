@@ -255,3 +255,31 @@ __*Lorem*__
 |Rodrigo | 35    | Professor |
 |Renan | 33    | Músico |
 ```
+
+# Códigos
+
+# Exemplo em linha
+
+Informe os parâmetros `username` e `password` para a função `login()`.
+
+``const message = `My name is ${name}`;``
+
+# Exemplo com bloco 1
+
+    // login.js
+
+    const username = 'joaolucio';
+    const password = "secret";
+
+    login(username, password);
+
+# Syntax Highlighting
+
+```javascript
+// login.js
+
+const username = 'joaolucio';
+const password = "secret";
+
+login(username, password);
+```
