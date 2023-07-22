@@ -155,3 +155,25 @@ __*Lorem*__
 2002\. Brasil  
 ```
 
+# Links
+
+[Clique aqui](https://github.com/Joao-Lucio)
+
+```
+[Clique aqui](Link)
+```
+
+[João Lúcio](https://github.com/Joao-Lucio "Github")
+
+```
+[Texto](Link "Texto que será exibido quando parar o mouse por cima")
+```
+[Clique aqui][site-url]
+
+[site-url]:https://github.com/Joao-Lucio
+
+```
+[Clique aqui][site-url]
+[site-url]:https://github.com/Joao-Lucio
+```
+
